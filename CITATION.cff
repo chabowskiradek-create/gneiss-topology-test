@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Topological Plasma Signatures in Black Aurora"
+abstract: "Analysis pipeline for testing spectral asymmetry (eta-invariant) in magnetospheric plasma via GNEISS/BaDASS sounding rocket data."
+authors:
+  - family-names: "Chabowski"
+    given-names: "Radosław Piro"
+    email: "chabowski.radek@gmail.com"
+repository-code: "https://github.com/chabowskiradek-create/gneiss-topology-test.git"
+license: MIT
+date-released: 2026-02-11
+version: "1.0.0"
+keywords:
+  - plasma physics
+  - topological field theory
+  - magnetosphere
+  - black aurora
+  - eta-invariant
+  - chiral anomaly
+  - berry phase
