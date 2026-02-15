@@ -1,0 +1,53 @@
+# Data files (NASA CDF - large binary files)
+data/nasa/*.cdf
+data/nasa/*.nc
+*.h5
+*.hdf5
+
+# Results (generated)
+results/
+figures/
+*.png
+*.pdf
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (if any API keys)
+.env
+secrets/
